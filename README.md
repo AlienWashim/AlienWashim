@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @Washim34(Md Washim Akram) Student of Green University of Bangladesh, Department of Computer Science and Engineerig
+- 👋 Hi, I’m @Washim34(Md Washim Akram)
+- Student of Green University of Bangladesh,
+- Department of Computer Science and Engineerig
+
 - 👀 I’m interested in ... Java and C programming language
 - 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ... Java programming language
