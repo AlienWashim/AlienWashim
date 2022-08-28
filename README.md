@@ -2,9 +2,11 @@
 - Student of Green University of Bangladesh,
 - Department of Computer Science and Engineering
 
-- 👀 I’m interested in ... Java and C programming language
-- 🌱 I’m currently learning ... Java
-- 💞️ I’m looking to collaborate on ... Java programming language
+- 👀 I’m interested in ... programming languages
+- Expart in Java, C, C++
+- Also in HTML, CSS, JavaScript, PHP and MySQL
+- 🌱 I’m currently learning ... Ajax and Bootstrap
+- 💞️ I’m looking to collaborate on ... Java programming language and Web development
 - 📫 How to reach me ... ws.akram330@gmail.com
 
 <!---
