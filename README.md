@@ -3,7 +3,7 @@
 - Department of Computer Science and Engineering
 
 - 👀 I’m interested in ... programming languages
-- Expart in Java, C, C++
+- Expart in Java, C, C++, Assembly language
 - Also in HTML, CSS, JavaScript, PHP and MySQL
 - 🌱 I’m currently learning ... Ajax and Bootstrap
 - 💞️ I’m looking to collaborate on ... Java programming language and Web development
