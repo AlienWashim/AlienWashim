@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @Washim34(Md Washim Akram)
+- 👋 Hi, I’m @AlienWashim(Md Washim Akram)
 - Student of Green University of Bangladesh,
 - Department of Computer Science and Engineering
 
 - 👀 I’m interested in ... programming languages
 - Expart in Java, C, C++, Assembly language
-- Also in HTML, CSS, JavaScript, PHP and MySQL
-- 🌱 I’m currently learning ... Ajax and Bootstrap
-- 💞️ I’m looking to collaborate on ... Java programming language and Web development
+- Also in HTML, CSS, JavaScript, PHP and SQL
+- 🌱 I’m currently learning ... Operating System and Computer networking
+- 💞️ I’m looking to collaborate on ... Java programming language,Operating System and Computer networking
 - 📫 How to reach me ... ws.akram330@gmail.com
 
 <!---
