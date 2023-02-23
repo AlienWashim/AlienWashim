@@ -4,9 +4,9 @@
 
 - 👀 I’m interested in ... programming languages
 - Expart in Java, C, C++, Assembly language
-- Also in HTML, CSS, JavaScript, PHP and SQL
-- 🌱 I’m currently learning ... Operating System and Computer networking
-- 💞️ I’m looking to collaborate on ... Java programming language,Operating System and Computer networking
+- Also in HTML, CSS, JavaScript, PHP and SQL, Operating System and Computer networking
+- 🌱 I’m currently learning and working on Software development along with Computer and Cyber Security ... 
+- 💞️ I’m looking to collaborate on ... Java programming language,Operating System, Computer networking and AI based technology...
 - 📫 How to reach me ... ws.akram330@gmail.com
 
 <!---
